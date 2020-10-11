@@ -1,4 +1,5 @@
-# Green Stormwater Infrastructure Benfits on Humans - evaluate what factors control whether or not green stormwater infrastructure provides net human benefits ( NB = 1) or not (NB = 0) using income, rainfall, and the dummy variable Rural as possible X variables.
+# Green Stormwater Infrastructure Benefits on Humans
+Evaluate what factors control whether or not green stormwater infrastructure provides net human benefits ( NB = 1) or not (NB = 0) using income, rainfall, and the dummy variable Rural as possible X variables.
 
 The data provided for this assignment is a 10000 by 5 matrix, where n is the number of green stormwater infrastructure elements (biofilters) evaluated.
   * HB is a vector that illustrates the magnitude of benefit people could receive from each of the n different biofilters  (positive HB = lots of benefit, negative HB = little benefit).
